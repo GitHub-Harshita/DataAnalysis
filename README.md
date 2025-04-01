@@ -42,3 +42,9 @@ CC Provider: Credit card provider (e.g., VISA, Mastercard, etc.).
 Email: Email address associated with the purchase.
 
 Job: Occupation or job title of the purchaser.
+
+IP Address: IP address used for the purchase.
+
+Language: Language setting used during the purchase.
+
+Purchase Price: The price of the purchase.
