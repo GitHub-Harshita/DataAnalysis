@@ -21,4 +21,24 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 Colab Notebook: For code execution and visualization
 
+**ECOMMERCE_PURCHASE_PROJECT**
 
+Lot: an identifier for the location/address.
+
+AM or PM: Denotes whether the purchase was made in the morning (AM) or evening (PM).
+
+Browser Info: Information about the browser used during the purchase.
+
+Company: Name of the company associated with the purchase.
+
+Credit Card: Partially masked credit card numbers.
+
+CC Exp Date: Credit card expiration date.
+
+CC Security Code: Security code related to the credit card.
+
+CC Provider: Credit card provider (e.g., VISA, Mastercard, etc.).
+
+Email: Email address associated with the purchase.
+
+Job: Occupation or job title of the purchaser.
